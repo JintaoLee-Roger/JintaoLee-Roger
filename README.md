@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
 
-#### Find me
+### Find me
 
 <p>
   <a href="mailto:lijintaobt@gmail.com">
