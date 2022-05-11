@@ -14,7 +14,7 @@
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://gitee.com/roger_lee">
-    <img alt="Gitee" src="https://https://img.shields.io/badge/Gitee-%23BB001B.svg?&style=for-the-badge&logo=Gitee&logoColor=white" />
+    <img alt="Gitee" src="https://img.shields.io/badge/Gitee-%23BB001B.svg?&style=for-the-badge&logo=Gitee&logoColor=white" />
   </a>
   <a href="https://jintaolee-roger.github.io/">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-%231DA1F2.svg?&style=for-the-badge" />
