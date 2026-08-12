@@ -1,22 +1,39 @@
-### Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/-Python-4B8BBE?&logo=Python&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
-![Java](https://img.shields.io/badge/-Java-888?&logo=Java&logoColor=fff)
+# Jintao Li
 
-### Find me
+### AI × Geoscience × Open Infrastructure
 
-<p>
-  <a href="mailto:lijintaobt@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/JintaoLee-Roger">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://gitee.com/roger_lee">
-    <img alt="Gitee" src="https://img.shields.io/badge/Gitee-%23BB001B.svg?&style=for-the-badge&logo=Gitee&logoColor=white" />
-  </a>
+Building intelligent methods and open tools for understanding complex Earth systems.
+
+<br>
+
+![Geoscience AI](https://img.shields.io/badge/Geoscience_AI-AA513B?style=flat-square)
+![Foundation Models](https://img.shields.io/badge/Foundation_Models-235D58?style=flat-square)
+![Seismic](https://img.shields.io/badge/Seismic_Processing-40504C?style=flat-square)
+![DAS](https://img.shields.io/badge/DAS_%26_Fiber_Sensing-AA513B?style=flat-square)
+![Infrastructure](https://img.shields.io/badge/AI_Infrastructure-235D58?style=flat-square)
+
+<br>
+
+<p align="center">
   <a href="https://jintaolee-roger.github.io/">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-%231DA1F2.svg?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-235D58?style=flat-square&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://scholar.google.com/citations?user=_g2xGUwAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-AA513B?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://orcid.org/0000-0002-1022-9170">
+    <img src="https://img.shields.io/badge/ORCID-235D58?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
   </a>
 </p>
+</div>
+
+---
+
+## Research Interests
+
+- **AI and foundation models for geoscience**
+- **Seismic processing, interpretation, and inversion**
+- **DAS, Fiber-Optic Sensing, Multi-Sensor Fusion, and Geophysical Monitoring**
+- **Geoscience AI infrastructure and open-source software**
